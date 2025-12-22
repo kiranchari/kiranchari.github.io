@@ -1,14 +1,13 @@
 ---
 layout: post
-title:  "Optimizing Algorithms From Pairwise User Preferences"
-date:   2023-08-09 22:21:59 +00:00
-image: /images/pairwise.png
+title:  "Uniformly Distributed Feature Representations for Fair and Robust Learning"
+date:   2024-12-09 22:21:59 +00:00
+image: /images/tmlr.jpg
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Katherine Shih, Martial Hebert, Aaron Steinfeld"
-venue: "International Conference on Intelligent Robots and Systems"
-arxiv: https://arxiv.org/abs/2308.04571
-code: https://github.com/leonidk/pairwise
-website: https://leonidk.github.io/pairwise
+author: "Kiran Krishnamachari"
+authors: "<strong>Kiran Krishnamachari</strong>, Foo Chuan Sheng, See-Kiong Ng"
+venue: "Transactions on Machine Learning Research"
+paper: https://openreview.net/forum?id=PgLbS5yp8n
+code: https://github.com/kiranchari/uniformriskminimization
 ---
-We show how to perform efficient black-box optimization of algorithm configuration from user preferences. Results include Intel RealSense stereo cameras and a robot social navigation policy.
+We show that encouraging deep feature representations to be uniformly distributed makes models fairer and more robust, empirically and theoretically. 
