@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
+title:  "Comprehensive benchmarking of methods for mutation calling in circulating tumor DNA"
 date:   2023-08-28 22:21:59 +00:00
-image: /images/3dgaussian.jpg
+image: /images/ncomms.jpg
 categories: research
 author: "Leo Keselman"
 authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
-venue: "arXiv"
-arxiv: https://arxiv.org/abs/2308.14737
-code: https://github.com/leonidk/fmb-plus
-website: https://leonidk.github.io/fmb-plus
+venue: "Nature Communications"
+paper: https://www.nature.com/articles/s41467-025-67842-x
 ---
 We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
