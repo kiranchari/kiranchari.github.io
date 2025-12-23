@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Accurate somatic variant detection using weakly supervised deep learning"
+date:   2022-07-22 22:21:59 +00:00
+image: /images/ncomms.jpg
+categories: research
+author: "Kiran Krishnamachari"
+authors: "<strong>Kiran Krishnamachari</strong> Dylan Lu, Alexander Swift-Scott, Anuar Yeraliyev, Kayla Lee, Weitai Huang, Sim Ngak Leng & Anders Jacobsen Skanderup"
+venue: "Nature Communications"
+paper: https://www.nature.com/articles/s41467-022-31765-8
+code: https://github.com/skandlab/VarNet
+---
+
+A formulation for fitting Gaussian Mixture Models (GMMs) directly to geometric objects, such as a triangular mesh. This method produces more robust results and produces an improvement in 3D registration for both meshes and RGB-D frames. 

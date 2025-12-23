@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Accurate somatic variant detection using weakly supervised deep learning"
+date:   2022-07-22 22:21:59 +00:00
+image: /images/thesis.png
+categories: research
+author: "Kiran Krishnamachari"
+venue: "ProQuest"
+paper: https://www.proquest.com/openview/4ad481b332e1ad03b1c122aeb9b23dea/1?pq-origsite=gscholar&cbl=2026366&diss=y
+---
+
+My PhD Thesis

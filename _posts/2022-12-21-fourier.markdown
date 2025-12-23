@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Fourier Sensitivity and Regularization of Computer Vision Models"
+date:   2022-12-21 21:21:53 +00:00
+image: /images/tmlr.jpg
+categories: research
+authors: "<strong>Kiran Krishnamachari</strong>, Foo Chuan Sheng, See-Kiong Ng"
+venue: "Transactions on Machine Learning Research"
+paper: https://openreview.net/forum?id=VmTYgjYloM
+code: https://github.com/kiranchari/Fourier-Sensitivity-Regularization
+---
+With Hunter Goforth, we designed a manipulation task and solved it with imitation learning. 
