@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Identifying somatic mutations from tumor-only sequencing using deep learning"
+date:   2025-07-08 22:21:59 +00:00
+image: /images/AI4X-logo.gif
+categories: research
+author: "Kiran Krishnamachari"
+authors: "<strong>Kiran Krishnamachari</strong>, Anders Skanderup"
+venue: "AI4X 2025 International Conference"
+paper: https://openreview.net/pdf?id=UaKdIbTduH
+---
+We show the benefits of discovering an ensemble of configurations for a given algorithm during the course of optimization. Results on stereo, planning and visual odometry. 

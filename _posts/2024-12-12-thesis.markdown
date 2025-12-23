@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Towards Robust Deep Learning with Real World Applications"
-date:   2022-07-22 22:21:59 +00:00
+date:   2024-12-12 22:21:59 +00:00
 image: /images/thesis.png
 categories: research
 author: "Kiran Krishnamachari"
