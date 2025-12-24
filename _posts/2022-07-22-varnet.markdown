@@ -11,4 +11,4 @@ paper: https://www.nature.com/articles/s41467-022-31765-8
 code: https://github.com/skandlab/VarNet
 ---
 
-A formulation for fitting Gaussian Mixture Models (GMMs) directly to geometric objects, such as a triangular mesh. This method produces more robust results and produces an improvement in 3D registration for both meshes and RGB-D frames. 
+We develop VarNet, the first accurate deep learning method for detecting cancer mutations.

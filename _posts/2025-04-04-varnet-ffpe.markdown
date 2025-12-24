@@ -9,4 +9,4 @@ authors: "<strong>Kiran Krishnamachari</strong>, Anders Skanderup"
 venue: "International Conference on Learning Representations AI4NA Workshop"
 paper: https://openreview.net/forum?id=H04OPUn6QC
 ---
-We show the benefits of discovering an ensemble of configurations for a given algorithm during the course of optimization. Results on stereo, planning and visual odometry. 
+We develop a deep learning variant caller for tumor samples that reduces FFPE-associated artifacts.

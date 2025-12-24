@@ -9,4 +9,4 @@ venue: "Transactions on Machine Learning Research"
 paper: https://openreview.net/forum?id=VmTYgjYloM
 code: https://github.com/kiranchari/Fourier-Sensitivity-Regularization
 ---
-With Hunter Goforth, we designed a manipulation task and solved it with imitation learning. 
+We analyse the Fourier sensitivity of deep learning models in a principled fashion and also study their effect on robustness. We also propose regularizers that can modify the frequency sensitivity of any model.

@@ -4,8 +4,8 @@ title:  "ARMOURED: Adversarially Robust MOdels using Unlabeled data by REgulariz
 date:   2021-01-13 22:21:59 +00:00
 image: /images/iclr.png
 categories: research
-authors: Kangkang_Lu, Cuong Manh Nguyen, Xun Xu, <strong>Kiran Krishnamachari</strong>, Yu Jing Goh, Chuan-Sheng Foo
+authors: Kangkang Lu, Cuong Manh Nguyen, Xun Xu, <strong>Kiran Krishnamachari</strong>, Yu Jing Goh, Chuan-Sheng Foo
 venue: "International Conference on Learning Representations 2021"
 paper: https://openreview.net/forum?id=JoCR4h9O3Ew
 ---
-We show the benefits of discovering an ensemble of configurations for a given algorithm during the course of optimization. Results on stereo, planning and visual odometry. 
+We propose an adversarially robust method for training model ensembles using semi-supervision.

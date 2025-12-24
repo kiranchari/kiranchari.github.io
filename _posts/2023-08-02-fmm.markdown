@@ -9,4 +9,4 @@ venue: "Transactions on Machine Learning Research"
 paper: https://openreview.net/forum?id=lu4oAq55iK
 code: https://github.com/kiranchari/FourierMomentMatching
 ---
-With Hunter Goforth, we designed a manipulation task and solved it with imitation learning. 
+We developed an simple yet effective unsupervised domain adapation method that operates by matching Fourier spectrum statistics between source and target domains. Works for multiple modalities e.g. images, audio, time-series.
