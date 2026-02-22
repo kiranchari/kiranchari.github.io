@@ -1,0 +1,69 @@
+# Kiran Krishnamachari — Scientist | AI for Cancer Genomics | Deep Learning Researcher
+
+> Kiran Krishnamachari is a Scientist at the Genome Institute of Singapore (A*STAR) who develops AI and deep learning methods for cancer genomics. He is the creator of VarNet, a pioneering weakly supervised deep learning system for somatic variant calling published in Nature Communications. His PhD is in Computer Science (Deep Machine Learning) from the National University of Singapore (2024).
+
+## About
+
+Kiran Krishnamachari is a researcher at the intersection of artificial intelligence and cancer biology. He works at the Genome Institute of Singapore, part of A*STAR (Agency for Science, Technology and Research), Singapore's leading research agency. His work focuses on developing novel deep learning algorithms for detecting somatic mutations (cancer mutations) from next-generation sequencing data, with applications to both tissue and liquid biopsy.
+
+He completed his PhD at the School of Computing, National University of Singapore, where his thesis "Towards Robust Deep Learning with Real World Applications" explored robust AI methods and their deployment in healthcare. He also holds a B.Eng in Industrial and Systems Engineering from NUS.
+
+His research has been featured in major media outlets including The Straits Times, Genome Web, Asian Scientist, and Channel News Asia.
+
+## Areas of Expertise
+
+- **AI for Cancer Genomics**: Deep learning methods for somatic variant/mutation calling (VarNet, VarNet-T, FFPEnet)
+- **Somatic Variant Calling**: Detecting cancer mutations from tumor sequencing data, including tumor-only and matched normal settings
+- **Liquid Biopsy / ctDNA Analysis**: Mutation detection in circulating tumor DNA from plasma samples
+- **Robust Deep Learning**: Adversarial robustness, distribution shift mitigation, out-of-distribution generalization
+- **Fourier Analysis of Neural Networks**: Principled frequency-domain analysis and regularization of deep learning models
+- **Fairness in Machine Learning**: Uniform feature representations for fair and robust learning
+- **Domain Adaptation**: Fourier moment matching for unsupervised cross-domain transfer
+- **Weakly Supervised Learning**: Learning from noisy or imprecise labels in computational biology
+- **Transfer Learning**: Deep transfer learning for handling FFPE artifacts in tumor samples
+- **Transcriptomics AI**: Conditional VAEs for tumor and cell-line transcriptomic alignment
+
+## Selected Publications
+
+### Nature Communications
+1. **Improved tumor-only variant calling and mutation burden estimation with VarNet-T** (2026, to appear)
+   - Kiran Krishnamachari, Bui Nguyen Huu An, Sinem Kadioglu, Ong Tze Jet, Anders Jacobsen Skanderup
+   - A weakly supervised deep learning method for variant calling from tumor-only samples
+2. **Comprehensive benchmarking of methods for mutation calling in circulating tumor DNA** (2025)
+   - Hanaé Carrié, ..., Kiran Krishnamachari, ... & Anders Skanderup
+   - URL: https://www.nature.com/articles/s41467-025-67842-x
+3. **Accurate somatic variant detection using weakly supervised deep learning** (2022)
+   - Kiran Krishnamachari et al.
+   - URL: https://www.nature.com/articles/s41467-022-31765-8
+   - Code: https://github.com/skandlab/VarNet
+
+### Transactions on Machine Learning Research (TMLR)
+4. **Uniformly Distributed Feature Representations for Fair and Robust Learning** (2024)
+   - Kiran Krishnamachari, Foo Chuan Sheng, See-Kiong Ng
+   - URL: https://openreview.net/forum?id=PgLbS5yp8n
+5. **Mitigating Real-World Distribution Shifts in the Fourier Domain** (2023)
+   - Kiran Krishnamachari, Foo Chuan Sheng, See-Kiong Ng
+   - URL: https://openreview.net/forum?id=lu4oAq55iK
+6. **Fourier Sensitivity and Regularization of Computer Vision Models** (2022)
+   - Kiran Krishnamachari, Foo Chuan Sheng, See-Kiong Ng
+   - URL: https://openreview.net/forum?id=VmTYgjYloM
+
+### ICLR & Workshops
+7. **ARMOURED: Adversarially Robust MOdels using Unlabeled data by REgularizing Diversity** (ICLR 2021)
+   - Kangkang Lu, Cuong Manh Nguyen, Xun Xu, Kiran Krishnamachari, Yu Jing Goh, Chuan-Sheng Foo
+   - URL: https://openreview.net/forum?id=JoCR4h9O3Ew
+8. **RNAlign: Alignment of tumor and cell line transcriptomes using conditional VAEs** (ICLR AI4NA Workshop 2025)
+9. **FFPEnet: Somatic variant calling in FFPE tumor samples using deep transfer learning** (ICLR AI4NA Workshop 2025)
+
+### Book Chapters
+10. **Identification of somatic variants in cancer genomes from tissue and liquid biopsy samples** (Springer Nature, 2025)
+    - URL: https://link.springer.com/protocol/10.1007/978-1-0716-4566-6_16
+
+## Awards
+- A*STAR Computing and Information Science Scholarship
+
+## Contact
+- Email: kirankchari@gmail.com
+- GitHub: https://github.com/kiranchari
+- LinkedIn: https://www.linkedin.com/in/kiranchari
+- Website: https://kiranchari.github.io
