@@ -213,6 +213,32 @@
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet"
     type="text/css">
 
+  <style>
+    @media screen and (max-width: 768px) {
+      .intro-row {
+        display: flex !important;
+        flex-direction: column !important;
+      }
+
+      .intro-row>td {
+        display: block !important;
+        width: 100% !important;
+        max-width: 100% !important;
+      }
+
+      .intro-photo {
+        order: -1 !important;
+        text-align: center;
+        padding-bottom: 0 !important;
+      }
+
+      .intro-photo img {
+        max-width: 200px !important;
+        margin: 0 auto;
+      }
+    }
+  </style>
+
 </head>
 
 <body>
@@ -275,7 +301,7 @@
       <td style="padding:0px">
         <table
           style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr style="padding:0px">
+          <tr class="intro-row" style="padding:0px">
             <td style="padding:2.5%;width:60%;vertical-align:middle">
               <h1 itemprop="name">
                 Kiran Krishnamachari
@@ -325,7 +351,7 @@
                 <a target="_blank" href="https://www.linkedin.com/in/kiranchari"> LinkedIn </a>
               </p>
             </td>
-            <td style="padding:2.5%;width:40%;max-width:40%">
+            <td class="intro-photo" style="padding:2.5%;width:40%;max-width:40%">
               <img style="width:100%;max-width:100%" alt="profile photo" src="tn/images/circle_bw_crop.jpg">
             </td>
           </tr>
